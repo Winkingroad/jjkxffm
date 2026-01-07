@@ -4,7 +4,7 @@ const collegesByCity = {
 };
 
 // Backend API URL - Update this with your deployed backend URL
-const BACKEND_API = "http://localhost:3000"; // Change to your deployed URL in production
+const BACKEND_API = "https://jjkxffm.onrender.com"; // Production Render deployment
 
 function updateColleges() {
   const city = document.getElementById("city").value;
