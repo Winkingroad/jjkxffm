@@ -1,5 +1,5 @@
 const collegesByCity = {
-  delhi: ["NSUT", "GB Pant", "NIT Delhi", "GTBIT", "TBD"],
+  delhi: ["NSUT", "GB Pant", "NIT Delhi", "GTBIT", "IIIT Delhi"],
   mumbai: ["SIES", "ICT Manzar", "LS Raheja", "Pillai", "Bharati Vidyapeeth"]
 };
 
