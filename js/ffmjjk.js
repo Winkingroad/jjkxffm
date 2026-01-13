@@ -1,6 +1,6 @@
 const collegesByCity = {
   delhi: ["NSUT", "GB Pant", "NIT Delhi", "GTBIT", "IIIT Delhi"],
-  mumbai: ["SIES", "ICT Manzar", "LS Raheja", "Pillai", "Bharati Vidyapeeth"]
+  mumbai: ["SIES", "Saraswati College of Engineering", "LS Raheja", "Pillai", "Bharati Vidyapeeth"]
 };
 
 // Backend API URL - Update this with your deployed backend URL
